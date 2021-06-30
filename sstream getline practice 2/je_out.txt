@@ -1,0 +1,5 @@
+This program displays information about a set of Intel-like assembly instructions
+
+Enter name of file with instructions (no spaces): je.txt
+1. The jump if equal opcode
+operand 1 : start

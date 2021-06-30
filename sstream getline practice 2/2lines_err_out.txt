@@ -1,0 +1,6 @@
+This program displays information about a set of Intel-like assembly instructions
+
+Enter name of file with instructions (no spaces): 2lines_err.txt
+1. Opcode not recognized: inv
+1. The jump if equal opcode
+operand 1 : done

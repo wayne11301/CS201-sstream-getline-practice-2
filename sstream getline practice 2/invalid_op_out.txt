@@ -1,0 +1,4 @@
+This program displays information about a set of Intel-like assembly instructions
+
+Enter name of file with instructions (no spaces): invalid_op.txt
+1. Opcode not recognized: blah

@@ -1,0 +1,5 @@
+This program displays information about a set of Intel-like assembly instructions
+
+Enter name of file with instructions (no spaces): je_2_operands.txt
+1. The jump if equal opcode
+je should only have one operand, but has operands ax, and bx

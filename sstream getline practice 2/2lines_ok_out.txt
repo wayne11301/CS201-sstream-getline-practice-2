@@ -1,0 +1,6 @@
+This program displays information about a set of Intel-like assembly instructions
+
+Enter name of file with instructions (no spaces): 2lines_ok.txt
+1. The increment opcode
+operand 1 : ax
+2. The return opcode

@@ -1,0 +1,5 @@
+This program displays information about a set of Intel-like assembly instructions
+
+Enter name of file with instructions (no spaces): ret_with_operand.txt
+1. The return opcode
+ret should not have any operands, but has: invalid_operand
